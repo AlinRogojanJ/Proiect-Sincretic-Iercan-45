@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alin_\\Downloads\\PS_4\\PS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D1A391-33E7-445F-9943-4A11AFCC75C7}|PS\\PS.csproj|c:\\users\\alin_\\downloads\\ps_4\\ps\\ps\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D1A391-33E7-445F-9943-4A11AFCC75C7}|PS\\PS.csproj|solutionrelative:ps\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D1A391-33E7-445F-9943-4A11AFCC75C7}|PS\\PS.csproj|C:\\Users\\alin_\\Downloads\\PS_4\\PS\\PS\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4D1A391-33E7-445F-9943-4A11AFCC75C7}|PS\\PS.csproj|solutionrelative:PS\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D1A391-33E7-445F-9943-4A11AFCC75C7}|PS\\PS.csproj|c:\\users\\alin_\\downloads\\ps_4\\ps\\ps\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D1A391-33E7-445F-9943-4A11AFCC75C7}|PS\\PS.csproj|solutionrelative:ps\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D1A391-33E7-445F-9943-4A11AFCC75C7}|PS\\PS.csproj|c:\\users\\alin_\\downloads\\ps_4\\ps\\ps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D1A391-33E7-445F-9943-4A11AFCC75C7}|PS\\PS.csproj|solutionrelative:ps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alin_\\Downloads\\PS_4\\PS\\PS\\Form1.cs",
+              "RelativeDocumentMoniker": "PS\\Form1.cs",
+              "ToolTip": "C:\\Users\\alin_\\Downloads\\PS_4\\PS\\PS\\Form1.cs",
+              "RelativeToolTip": "PS\\Form1.cs",
+              "ViewState": "AQIAABUBAAAAAAAAAAAuwCUBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:18:02.179Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\alin_\\Downloads\\PS_4\\PS\\PS\\Form1.cs",
+              "RelativeDocumentMoniker": "PS\\Form1.cs",
+              "ToolTip": "C:\\Users\\alin_\\Downloads\\PS_4\\PS\\PS\\Form1.cs [Design]",
+              "RelativeToolTip": "PS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:18:03.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alin_\\Downloads\\PS_4\\PS\\PS\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PS\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\alin_\\Downloads\\PS_4\\PS\\PS\\Form1.Designer.cs",
+              "RelativeToolTip": "PS\\Form1.Designer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:18:02.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alin_\\Downloads\\PS_4\\PS\\PS\\Program.cs",
+              "RelativeDocumentMoniker": "PS\\Program.cs",
+              "ToolTip": "C:\\Users\\alin_\\Downloads\\PS_4\\PS\\PS\\Program.cs",
+              "RelativeToolTip": "PS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T16:18:03.324Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
